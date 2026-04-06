@@ -7,7 +7,6 @@ Community-maintained documentation for creators on **[Aippy](https://aippy.ai/)*
 
 This repository collects **creation guidelines**, workflow tips, and quality expectations for projects published on Aippy. It is intended for educators, ambassadors, creators, and anyone documenting best practices — *not* a fork of the Aippy product itself.
 
-![Ecosystem overview](assets/diagrams/ecosystem.svg)
 
 ## Contents
 
