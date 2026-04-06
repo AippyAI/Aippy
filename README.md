@@ -12,4 +12,3 @@ Documentation-only views of how **Aippy** fits together from a creator’s persp
 
 ## Ecosystem diagram (inline asset)
 
-![Ecosystem overview](../../assets/diagrams/ecosystem.svg)
